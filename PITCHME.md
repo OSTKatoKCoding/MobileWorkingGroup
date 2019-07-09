@@ -72,3 +72,14 @@
 * さぁ、あいさつをしてみましょう!!
 * 「MainPage.xmal」を開いてみましょう。
 ![img7](image/img7.png)
+
++++
+## 3.Hello Worldの表示
+下記コードがありますでしょうか？変更してみましょう!!
+```xml
+<Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+```
+↓
+```xml
+<Label Text="Hello World" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+```

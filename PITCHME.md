@@ -28,7 +28,7 @@
 ## 2.プロジェクトを新規で作ってみよう!!
 
 * 下記のような画面が立ち上がってきたかと思います。
-<img src="/image/img1.png" title="img1" width="80%" height="80%">
+<img src="/image/img1.png" title="img1" width="50%" height="50%">
 * マルチプラットホームの「アプリ」を押下してください。
 
 +++

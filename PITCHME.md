@@ -1,8 +1,3 @@
-theme : moon
-highlight : monokai-sublime
-slide-number: true
-transition : fade
-
 # Xamarin勉強会
 (環境構築編)
 
@@ -16,16 +11,23 @@ transition : fade
 * 5.まとめ
 ---
 
-### 1.インストールをしてみよう!!
-*まずWindows,iOSどちらでも、基本visual studioをインストールしましょう。
-*下記からインストールしてください。
-*https://visualstudio.microsoft.com/ja/free-developer-offers/
+## 1.インストールをしてみよう!!
+* まずWindows,iOSどちらでも、基本visual studioをインストールしましょう。
+* 下記からインストールしてください。
+* https://visualstudio.microsoft.com/ja/free-developer-offers/
 
 ---
-### 2.プロジェクトを新規で作ってみよう!!
+## 2.プロジェクトを新規で作ってみよう!!
 
-*インストールは、できたでしょうか?
-*それでは、立ち上げてみましょう!!
-*下記アイコンをクリックで立ち上がってきます。
-*(下記はMacですが、Windowsも同じかと思います。)
-*![img0](image/img0.png)
+* インストールは、できたでしょうか?
+* それでは、立ち上げてみましょう!!
+* 下記アイコンをクリックで立ち上がってきます。
+* (下記はMacのアイコンですが、Windowsも同じかと思います。)
+* ![img0](image/img0.png)
+
++++
+## 2.プロジェクトを新規で作ってみよう!!
+
+* 下記のような画面が立ち上がってきたかと思います。
+* ![img1](image/img1.png)
+* 赤枠部分の「アプリ」を押下してください。

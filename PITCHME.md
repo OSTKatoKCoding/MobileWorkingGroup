@@ -8,7 +8,6 @@
 * 2.プロジェクトを新規で作ってみよう!!
 * 3.Hello Worldの表示
 * 4.シミュレータを立ち上げてみよう
-* 5.まとめ
 ---
 
 ## 1.インストールをしてみよう!!
@@ -23,7 +22,7 @@
 * それでは、立ち上げてみましょう!!
 * 下記アイコンをクリックで立ち上がってきます。
 * (下記はMacのアイコンですが、Windowsも同じかと思います。)
-![img0](image/img0.png)
+<img src="/image/img0.png" title="img0" width="80%" height="80%">
 
 +++
 ## 2.プロジェクトを新規で作ってみよう!!
@@ -77,9 +76,19 @@
 ## 3.Hello Worldの表示
 下記コードがありますでしょうか？変更してみましょう!!
 ```xml
-<Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+<Label Text="Welcome to Xamarin.Forms!" 
+       HorizontalOptions="Center" 
+       VerticalOptions="CenterAndExpand" />
 ```
 ↓
 ```xml
-<Label Text="Hello World" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+<Label Text="Hello World" 
+       HorizontalOptions="Center"
+       VerticalOptions="CenterAndExpand" />
 ```
+
+---
+## 4.シミュレータを立ち上げてみよう
+準備が整いました。実行致しましょう!!
+* 三角ボタンを押下してみましょう!! シュミレータが立ち上げれば成功です。
+![img8](image/img8.png)

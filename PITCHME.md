@@ -17,15 +17,15 @@ transition : fade
 ---
 
 ### 1.インストールをしてみよう!!
-まずWindows,iOSどちらでも、基本visual studioをインストールしましょう。
-下記からインストールしてください。
-https://visualstudio.microsoft.com/ja/free-developer-offers/
+・まずWindows,iOSどちらでも、基本visual studioをインストールしましょう。
+・下記からインストールしてください。
+・https://visualstudio.microsoft.com/ja/free-developer-offers/
 
 ---
 ### 2.プロジェクトを新規で作ってみよう!!
 
-インストールは、できたでしょうか?
-それでは、立ち上げてみましょう!!
-下記アイコンをクリックで立ち上がってきます。
-(下記はMacですが、Windowsも同じかと思います。)
-![alt](image/img0.png)
+・インストールは、できたでしょうか?
+・それでは、立ち上げてみましょう!!
+・下記アイコンをクリックで立ち上がってきます。
+・(下記はMacですが、Windowsも同じかと思います。)
+・![alt](image/img0.png)

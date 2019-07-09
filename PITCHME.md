@@ -56,7 +56,7 @@
 
 +++
 ### 2.プロジェクトを新規で作ってみよう!!
-<img src="/image/img4.png" title="img4" width="50%" height="50%">
+<img src="/image/img4.png" title="img4">
 
 
 +++
@@ -83,6 +83,7 @@
 +++
 ### 3.Hello Worldの表示
 下記コードがありますでしょうか？変更してみましょう!!
+
 ```xml
 <Label Text="Welcome to Xamarin.Forms!" 
        HorizontalOptions="Center" 

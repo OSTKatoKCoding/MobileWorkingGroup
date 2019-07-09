@@ -22,13 +22,13 @@
 * それでは、立ち上げてみましょう!!
 * 下記アイコンをクリックで立ち上がってきます。
 * (下記はMacのアイコンですが、Windowsも同じかと思います。)
-<img src="/image/img0.png" title="img0" width="80%" height="80%">
+<img src="/image/img0.png" title="img0">
 
 +++
 ## 2.プロジェクトを新規で作ってみよう!!
 
 * 下記のような画面が立ち上がってきたかと思います。
-![img1](image/img1.png)
+<img src="/image/img1.png" title="img1" width="80%" height="80%">
 * マルチプラットホームの「アプリ」を押下してください。
 
 +++

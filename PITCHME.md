@@ -14,10 +14,10 @@
 ### 1.Gitとは、なじゃらほい?
 * バージョン管理システムと呼ばれるものです。
 * 下記のようなイメージをしていただけるとわかりやすいかと思います。
-<img src="/image/img1.png" title="img 0">
+<img src="/image/img0.png" title="img 0">
 
 ---
-### 2.プロジェクトを新規で作ってみよう!!
+### 2.環境作り
 
 * まずWindows,Macで環境構築が違います。
 * Macは、デフォで入っているため、何もする必要がありません。
@@ -26,11 +26,14 @@
 * これで準備完了です。 (SorceTreeを使うとGitをGUI的に見えるので、そちらの方がいいかも)
 
 +++
-### GitでPullしてみよう。
+### 3.GitでPullしてみよう。
 
-* 下記のような画面が立ち上がってきたかと思います。
-* マルチプラットホームの「アプリ」を押下してください。
-<img src="/image/img1.png" title="img 0" width="50%" height="50%">
+* 下記にアクセスしていただくと画像のような画面の赤枠部分のURLをコピーしてください。
+* https://github.com/OSTKatoKCoding/MobileWorkingGroup
+ターミナルを開き、環境を作りたいディレクトリで
+"git clone https://github.com/OSTKatoKCoding/MobileWorkingGroup.git"
+と入力し、実行してください。
+<img src="/image/img1.png" title="img 1">
 
 +++
 ### 2.プロジェクトを新規で作ってみよう!!

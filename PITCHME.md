@@ -22,19 +22,19 @@
 
 * まずWindows,Macで環境構築が違います。
 * Macは、デフォで入っているため、何もする必要がありません。
-* Windowsは、Git for Windowsをインストールをお願い致します。下記URLからインストール
+* Windowsは、Git for Windowsのインストールをお願い致します。下記URLからインストール
 * https://gitforwindows.org
 * これで準備完了です。 (SorceTreeを使うとGitをGUI的に見えるので、そちらの方がいいかも)
 
 ---
 ### 3.GitでPullしてみよう。
 
-* @size[0.8em](下記にアクセスしていただくと画像のような画面の赤枠部分のURLをコピーしてください。
+* @size[0.8em](下記にアクセスしていただくと画像のような画面の赤枠部分のURLをコピーしてください。)
 * https://github.com/OSTKatoKCoding/MobileWorkingGroup
-ターミナルを開き、環境を作りたいディレクトリで
-"git clone https://github.com/OSTKatoKCoding/MobileWorkingGroup.git"
-と入力し、実行してください。)
-<img src="/image/image0.png" title="img 1">
+@size[0.8em](ターミナルを開き、環境を作りたいディレクトリで)
+"git clone コピーしたURL"
+@size[0.8em](と入力し、実行してください。)
+<img src="/image/image1.png" title="img 1">
 
 +++
 ### 2.プロジェクトを新規で作ってみよう!!

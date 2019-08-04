@@ -1,0 +1,4 @@
+theme : beige
+theme-override : PITCHME.css
+highlight : hybrid
+transition : convex

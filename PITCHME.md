@@ -1,19 +1,22 @@
 ### Xamarin勉強会
-(環境構築編)
+(Git使い方編)
 
 ---
 ### 目次
 
-* 1.インストールをしてみよう!!
-* 2.プロジェクトを新規で作ってみよう!!
-* 3.Hello Worldの表示
-* 4.シミュレータを立ち上げてみよう
+* 1.Gitとは、なじゃらほい?
+* 2.環境作り
+* 3.GitでPullしてみよう。
+* 4.GitでCommitしてみよう。
+* 5.GitでPushをしてみよう。
 ---
 
-### 1.インストールをしてみよう!!
-* まずWindows,iOSどちらでも、基本visual studioをインストールしましょう。
-* 下記からインストールしてください。
-* https://visualstudio.microsoft.com/ja/free-developer-offers/
+### 1.Gitとは、なじゃらほい?
+* まずWindows,Macで環境構築が違います。
+* Macは、デフォで入っているため、何もする必要がありません。
+* Windowsは、Git for Windowsをインストールをお願い致します。下記URLからインストール
+* https://gitforwindows.org
+* これで準備完了です。 (SorceTreeを使うとGitをGUI的に見えるので、そちらの方がいいかも)
 
 ---
 ### 2.プロジェクトを新規で作ってみよう!!

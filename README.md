@@ -1,3 +1,4 @@
 # MobileWorkingGroup
 
-勉強会用に使用しています。
+プレゼン資料は、下記アクセスで観れます。
+https://gitpitch.com/OSTKatoKCoding/MobileWorkingGroup/WhatisGit

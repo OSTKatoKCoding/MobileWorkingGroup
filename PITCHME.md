@@ -29,11 +29,11 @@
 ---
 ### 3.GitでPullしてみよう。
 
-* @size[2.5em](下記にアクセスしていただくと画像のような画面の赤枠部分のURLをコピーしてください。)
+* @size[0.8em](下記にアクセスしていただくと画像のような画面の赤枠部分のURLをコピーしてください。
 * https://github.com/OSTKatoKCoding/MobileWorkingGroup
 ターミナルを開き、環境を作りたいディレクトリで
 "git clone https://github.com/OSTKatoKCoding/MobileWorkingGroup.git"
-と入力し、実行してください。
+と入力し、実行してください。)
 <img src="/image/image0.png" title="img 1">
 
 +++

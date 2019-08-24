@@ -1,0 +1,12 @@
+D:\work\WG-Git\CalcSample\CalcSample\CalcSample\bin\Debug\netstandard2.0\CalcSample.deps.json
+D:\work\WG-Git\CalcSample\CalcSample\CalcSample\bin\Debug\netstandard2.0\CalcSample.dll
+D:\work\WG-Git\CalcSample\CalcSample\CalcSample\bin\Debug\netstandard2.0\CalcSample.pdb
+D:\work\WG-Git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\work\WG-Git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\work\WG-Git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+D:\work\WG-Git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\CalcSample.csproj.CoreCompileInputs.cache
+D:\work\WG-Git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\CalcSample.AssemblyInfoInputs.cache
+D:\work\WG-Git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\CalcSample.AssemblyInfo.cs
+D:\work\WG-Git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\XamlC.stamp
+D:\work\WG-Git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\CalcSample.dll
+D:\work\WG-Git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\CalcSample.pdb

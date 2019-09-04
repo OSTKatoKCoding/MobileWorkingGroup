@@ -25,6 +25,7 @@ namespace CalcSample.iOS
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
 
+            System.Diagnostics.Debug.WriteLine("Hoge Ios");
             return base.FinishedLaunching(app, options);
         }
     }

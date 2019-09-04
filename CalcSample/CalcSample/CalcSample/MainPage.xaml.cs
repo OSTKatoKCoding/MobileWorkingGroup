@@ -46,7 +46,22 @@ namespace CalcSample
 
             clear.Clicked += (sender, args) =>
             {
-                tMain.Text = "";
+                string s = Device.RuntimePlatform;
+                switch (s) {
+                    case Device.Android:
+                        tMain.Text = "Android";
+                        break;
+
+                    case Device.iOS:
+                        tMain.Text = "iOS";
+                        break;
+
+                    default:
+                    tMain.Text = "";
+                        break;
+                }
+
+
             };
 
             layoutButtons.Children.Add(clear, 2, 3);
@@ -59,5 +74,21 @@ namespace CalcSample
             // 自分の数字を文字表示に追加
             tMain.Text += (sender as Button).Text;
         }
+    }
+
+    public class LocationEventArgs : EventArgs
+    {
+        public double Latitude { get; set; }
+        public double Longitude { get; set; }
+    }
+
+    // 位置を受信した際のイベントハンドラー
+    public delegate void LocationEventHandler(object sender, LocationEventArgs args);
+
+    // GPS を利用するための、共通なインターフェース
+    public interface IGeolocator
+    {
+        void StartGps();
+        event LocationEventHandler LocationReceived;
     }
 }

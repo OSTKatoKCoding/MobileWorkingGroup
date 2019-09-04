@@ -18,6 +18,7 @@ namespace CalcSample.Droid
             ToolbarResource = Resource.Layout.Toolbar;
 
             base.OnCreate(savedInstanceState);
+            System.Diagnostics.Debug.WriteLine("Hoge Android");
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());
         }
